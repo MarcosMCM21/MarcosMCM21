@@ -1,7 +1,11 @@
 # Olá, eu me chamo Marcos!
 
-## Sobre Mim
+# Sobre mim
 A área da tecnologia sempre me fascinou e, após minha formação em Tecnologia em Automação Industrial, decidi dar um passo adiante e me dedicar ao Desenvolvimento de Sistemas.  Busco constantemente expandir meus conhecimentos e aprimorar minhas habilidades nesse campo que tanto me atrai.
+
+## 🎓 Formação acadêmica
+- Técnico em Automação Industrial
+- Técnico em Desenvolvimento de Sistemas
 
 ## 📊 Estatísticas
 ![Estatísticas do GitHub de Marcos](https://github-readme-stats.vercel.app/api?username=MarcosMCM21&show_icons=true&theme=radical) 
