@@ -1,5 +1,3 @@
-# Olá, eu me chamo Marcos!
-
 # Sobre mim
 A área da tecnologia sempre me fascinou e, após minha formação em Tecnologia em Automação Industrial, decidi dar um passo adiante e me dedicar ao Desenvolvimento de Sistemas.  Busco constantemente expandir meus conhecimentos e aprimorar minhas habilidades nesse campo que tanto me atrai.
 
