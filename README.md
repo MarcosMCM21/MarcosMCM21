@@ -2,8 +2,9 @@
 A área da tecnologia sempre me fascinou e, após minha formação em Tecnologia em Automação Industrial, decidi dar um passo adiante e me dedicar ao Desenvolvimento de Sistemas.  Busco constantemente expandir meus conhecimentos e aprimorar minhas habilidades nesse campo que tanto me atrai.
 
 ## 🎓 Formação acadêmica
-- Técnico em Automação Industrial
+- Cursando Engenharia da Computação
 - Técnico em Desenvolvimento de Sistemas
+- Técnico em Automação Industrial
 
 ## 📊 Estatísticas
 ![Estatísticas do GitHub de Marcos](https://github-readme-stats.vercel.app/api?username=MarcosMCM21&show_icons=true&theme=radical) 
