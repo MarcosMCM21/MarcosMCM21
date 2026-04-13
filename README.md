@@ -59,5 +59,3 @@ Atualmente cursando o Bacharelado em Engenharia da Computação na UNINTER, busc
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
 </a>
 </p>
-
-📍 Sumaré-SP
