@@ -3,7 +3,7 @@ A tecnologia sempre foi o meu motor. Sou um profissional com fortes raízes na �
 
 Atualmente cursando o Bacharelado em Engenharia da Computação na UNINTER, busco unir o mundo físico ao digital. Tenho bastante interesse de explorar arquiteturas, automação de infraestrutura e o desenvolvimento de lógicas complexas, inclusive utilizando motores gráficos. Busco constantemente expandir meus conhecimentos e construir projetos que resolvam problemas reais.
 
-#🎓 Formação Acadêmica
+# 🎓 Formação Acadêmica
 - 🎓 Bacharelado em Engenharia da Computação - UNINTER (Cursando)
 - 💻 Técnico em Desenvolvimento de Sistemas
 - ⚙️ Técnico em Automação Industrial
