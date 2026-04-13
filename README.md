@@ -6,10 +6,6 @@ A área da tecnologia sempre me fascinou e, após minha formação em Técnico d
 - Técnico em Desenvolvimento de Sistemas
 - Técnico em Automação Industrial
 
-## 📊 Estatísticas
-![Estatísticas do GitHub de Marcos](https://github-readme-stats.vercel.app/api?username=MarcosMCM21&show_icons=true&theme=radical) 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMCM21&layout=compact&theme=radical)
-
 ## Linguagens de Programação
 <p align="left"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </p>
 
