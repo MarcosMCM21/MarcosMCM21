@@ -40,14 +40,14 @@ Atualmente cursando o Bacharelado em Engenharia da Computação na UNINTER, busc
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-# Game Engines
+## Game Engines
 <p align="left">
 <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
 </p>
 
-# 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 <p align="left">
 <a href="https://www.linkedin.com/in/marcos-correa-de-melo-17448a200" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
